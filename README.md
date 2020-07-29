@@ -6,7 +6,7 @@ une équipe qui qui prend en charge les pompes à eau d’une petite zone, a eu 
 Ces ́echecs causent un ́enorme probléme pour de nombreuses personnes et en-traînent également de graves problémes de vie pour certaines familles. L’ ́equipe ne voit aucun motif dans le données lorsque le systéme tombe en panne, de sorte qu’ils ne savent pas où mettre plus d’attention.
 
 
-![Image of Yaktocat](https://github.com/zahrael97/Maintenance-predictive-Predire-la-panne-de-la-pompe-eau/blob/master/img/pump.jpg)
+![Image of Yaktocat](https://github.com/zahrael97/Predictive_maintenance/blob/master/img/pump.jpg)
 # Dataset
 
 L'ensemble de données est extrait de Kaggle et contient des informations provenant de 52 capteurs différents.
